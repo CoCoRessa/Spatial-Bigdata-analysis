@@ -30,17 +30,12 @@ cat('도시교통정비지역은 서울특별시 전체이며,', '\n',  '교통�
 * 2022.06.22  수도권 통근자들의 “통근 스트레스” 관련 기사
 - https://www.asiae.co.kr/article/2022061711005781949
 
-<img src="C:/Users/JunYeong.DESKTOP-IOMT4HU/Desktop/4학년/공간빅데이터분석/최종과제/그림1.jpg" style="width:60%;" />
-
 * 2021.09.08  인구의 거주, 연령별 통근시간
 - https://www.chosun.com/culture-life/living/2021/09/08/WRLDT54PMZGEZEF4NVMEPH5NEU/
-
-<img src="C:/Users/JunYeong.DESKTOP-IOMT4HU/Desktop/4학년/공간빅데이터분석/최종과제/그림2.jpg" style="width:60%;" />
 
 * 2022.02.23  대한민국 출퇴근 시간
 - https://www.newspost.kr/news/articleView.html?idxno=97011
 
-<img src="C:/Users/JunYeong.DESKTOP-IOMT4HU/Desktop/4학년/공간빅데이터분석/최종과제/그림3.jpg" style="width:60%;" />
 
 
 <br>

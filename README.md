@@ -5,63 +5,8 @@
 docs파일에 있는 "통근시간 영향요인 분석_수도권을 중심으로.html"에 자세히 정리되어 있습니다.
 
 ---
-title: "Spatial Bigdata Analysis (Final Project)_B913045_Park Jun Yeong"
-author: "Park Jun Yeong"
-date: "2023-12-12"
-output:
-  html_document:
-    fig.retina: 2
-    toc: true
-    toc_float: 
-          collapsed: true
-    code_folding: hide
+title: "Spatial Bigdata Analysis (Final Project)"
 ---
-
-<style type="text/css">
-
-body{ /* Normal  */s
-      font-size: 14px;
-  }   
-td {  /* Table  */
-  font-size: 10px;
-}
-h1.title {
-  font-size: 32px;
-  font-family: "serif", Times, serif;
-  color: DarkBlue;
-}
-h1 { /* Header 1 */
-  font-size: 22px;
-  font-family: "serif", Times, serif;
-  color: DarkBlue;
-}
-h2 { /* Header 2 */
-    font-size: 16px;
-    font-family: "serif", Times, serif;
-    color: DarkBlue;
-}
-h3 { /* Header 3 */
-  font-size: 13px;
-  font-family: "serif", Times, serif;
-  color: DarkBlue;
-}
-h4 { /* Header 4 */
-  font-size: 12px;
-  color: DarkBlue;
-}
-h5 { /* Header 5 */
-  font-size: 10px;
-  color: Black;
-}
-code.r{ /* Code block */
-    font-size: 12px;
-}
-pre { /* Code block - determines code spacing between lines */
-    font-size: 14px;    
-}
-</style>
-
-
 
 <br>
 
@@ -153,7 +98,7 @@ cat('도시교통정비지역은 서울특별시 전체이며,', '\n',  '교통�
 
 # [분석1] 통근시간 영향요인 분석
 
-## [분석1.1] 개인통행실태조사 내에 존재하는 설명변수와 통근시간과의 관계가 어떻게 되는가?  {.tabset}
+## [분석1.1] 개인통행실태조사 내에 존재하는 설명변수와 통근시간과의 관계가 어떻게 되는가? 
 
 분석에 앞서 주거지와 직장이 도시교통정비지역 및 교통권역 지역에 속하는 곳을 선택한 후, 출근 목적으로 자택이 출발지이고 직장이 도착지인 데이터만 선정하는 과정을 거쳤다. 또한, 통근시간을 출발시간과 도착시간의 차이로 계산했으며, 180분이상의 극단치는 제거하였다.
 
